@@ -3,8 +3,14 @@ def first_challenge
      montague: {
        patriarch: {},
        matriarch: {},
-       
-     }, capulet: {}
+       hero: {},
+       hero_friends: {}
+     }, capulet: {
+       patriarch: {},
+       matriarch: {},
+       hero: {},
+       hero_friends: {}
+     }
      
    }
 end

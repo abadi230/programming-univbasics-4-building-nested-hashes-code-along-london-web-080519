@@ -8,7 +8,7 @@ def first_challenge
      }, capulet: {
        patriarch: {},
        matriarch: {},
-       hero: {},
+       heroine: {},
        hero_friends: {}
      }
      
